@@ -12,7 +12,7 @@ a{
 }
 body{
     background-image:linear-gradient(to right, #01022dd8 30%, #00000077) 
-    ,url(/img/download.webp);
+    ,url(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0c0TGVqU2pnQVhuRkY5N1BkSldvU1g1WmpaQXxBQ3Jtc0trcFRhZU5jZDV4QUVLUHh6OGpwdGE1dHdVRFBEMjlYNmhMQzJPNWs1ek43RkU0el80UTRPNVhIWTFNRTlJMXdEaVJObG56TVU1Nmk4YzlNTFRuR3dGUzZ5MFliSjBzOHk5SV9oa2lFcGNJQlJVNkpyUQ&q=https%3A%2F%2Fca-times.brightspotcdn.com%2Fdims4%2Fdefault%2Fc1a61d9%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F3840x2160%2B0%2B0%2Fresize%2F1200x675%21%2Fformat%2Fwebp%2Fquality%2F80%2F%3Furl%3Dhttps%253A%252F%252Fcalifornia-times-brightspot.s3.amazonaws.com%252F03%252F0d%252F44d557194a8db3da6f4536cc2f30%252Favtr-226.jpg&v=8uf6lp-TkL8);
     height: 100vh;
     display: flex;
     display: block;
